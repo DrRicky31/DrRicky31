@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 🎓 &nbsp;I'm currently studying Data Engineering in Computer Science master degree at the University of RomaTre.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Machine Learning, and Big Data Architecture.
+🌱 &nbsp;I'm on track for learning more about Data Engineering, Cyber Security and Machine Learning.
 
 ### 🛠 &nbsp;Tech Stack
 
